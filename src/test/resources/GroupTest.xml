@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="AllTests Suite">
+    <test name="AllTests">
+        <groups>
+            <run>
+
+                <include name = "smoke"/>
+                <include name = "regress"/>
+
+            </run>
+        </groups>
+        <classes>
+            <class name = "Lesson8._grouping.GroupingTest"/>
+        </classes>
+    </test>
+</suite>
