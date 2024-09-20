@@ -1,6 +1,5 @@
 package HomeWork1;
 
-import DriverSetUp.DriverSetUp;
 import net.bytebuddy.asm.Advice;
 import org.openqa.selenium.By;
 import org.openqa.selenium.Keys;

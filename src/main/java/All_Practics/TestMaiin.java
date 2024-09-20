@@ -1,4 +1,6 @@
-import DriverSetUp.DriverSetUp;
+package All_Practics;
+
+import HomeWork1.DriverSetUp;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebDriverException;
 import org.openqa.selenium.chrome.ChromeDriver;

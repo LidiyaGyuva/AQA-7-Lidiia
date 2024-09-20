@@ -6,7 +6,7 @@ import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;
 
 public class SeleniumPractic {
-    public static void main(String[] args) throws InterruptedException {
+   /* public static void main(String[] args) throws InterruptedException {
         WebDriver driver = DriverSetUp.setUpDriver();
         driver.get("https://www.guinnessworldrecords.com/records/apply-to-set-or-break-a-record/");
 
@@ -33,6 +33,6 @@ driver.get("https://www.guinnessworldrecords.com/Account/Login?ReturnUrl=%2facco
 driver.quit();
 
 
-    }
+    }*/
 
 }

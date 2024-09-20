@@ -1,6 +1,6 @@
 package All_Practics.Practic250224;
 
-import DriverSetUp.DriverSetUp;
+import HomeWork1.DriverSetUp;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;
 import org.openqa.selenium.support.FindBy;

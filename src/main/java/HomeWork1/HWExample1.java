@@ -1,6 +1,5 @@
 package HomeWork1;
 
-import DriverSetUp.DriverSetUp;
 import org.openqa.selenium.JavascriptExecutor;
 import org.openqa.selenium.WebDriver;
 

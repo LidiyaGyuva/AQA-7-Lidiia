@@ -1,6 +1,6 @@
 package All_Practics.PracticLesson5Of270224;
 
-import DriverSetUp.DriverSetUp;
+import HomeWork1.DriverSetUp;
 import org.openqa.selenium.By;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.support.ui.Select;

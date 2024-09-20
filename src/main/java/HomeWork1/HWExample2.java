@@ -1,6 +1,5 @@
 package HomeWork1;
 
-import DriverSetUp.DriverSetUp;
 import com.github.dockerjava.api.command.UpdateSwarmCmd;
 import org.openqa.selenium.By;
 import org.openqa.selenium.WebDriver;
@@ -70,5 +69,4 @@ public static void compareElements (WebElement element1, WebElement element2){
     }
 
 }
-
 }

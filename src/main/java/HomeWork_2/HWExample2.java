@@ -1,6 +1,5 @@
 package HomeWork_2;
 
-import DriverSetUp.DriverSetUp;
 import org.openqa.selenium.By;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;
